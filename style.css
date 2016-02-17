@@ -1,0 +1,22 @@
+body {
+	background-color: #bbbbbb;
+}
+
+div {
+	width: 400px;
+	margin: 0px auto;
+}
+
+main p {
+	color: red;
+	border: 1px solid red;
+}
+
+li {
+	color: green;
+}
+
+header {
+	background-color: black;
+	color: white;
+}
